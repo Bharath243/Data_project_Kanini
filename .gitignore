@@ -1,0 +1,31 @@
+# Python virtual environments
+IPL_DataScience_Project/venv/
+IPL_DataScience_Project/.venv/
+IPL_DataScience_Project/env/
+
+# Python cache
+IPL_DataScience_Project/__pycache__/
+IPL_DataScience_Project/**/*.pyc
+
+# Environment variables / secrets
+IPL_DataScience_Project/.env
+IPL_DataScience_Project/.env.*
+
+# VS Code
+IPL_DataScience_Project/.vscode/
+
+# Jupyter
+IPL_DataScience_Project/.ipynb_checkpoints/
+
+# Logs
+IPL_DataScience_Project/**/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML models
+IPL_DataScience_Project/**/*.pt
+IPL_DataScience_Project/**/*.pth
+IPL_DataScience_Project/**/*.ckpt
+IPL_DataScience_Project/**/*.safetensors

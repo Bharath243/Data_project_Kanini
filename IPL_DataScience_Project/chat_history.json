@@ -1,0 +1,134 @@
+{
+  "4f8311e9-67ad-4a52-8f26-c3038771b1d4": {
+    "title": "In which match Suresh Raina scored 87 ru",
+    "messages": [
+      {
+        "role": "user",
+        "content": "In which match Suresh Raina scored 87 runs off 25 balls ?"
+      },
+      {
+        "role": "assistant",
+        "content": "No IPL innings found where SK Raina scored 87 runs from 25 balls in the dataset.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Dhoni played for how many teams in IPL history ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MS Dhoni played for 2 IPL teams: Chennai Super Kings, Rising Pune Supergiants.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Give me the bowling stats for boult?"
+      },
+      {
+        "role": "assistant",
+        "content": "TA Boult bowling stats: 145 wickets, 3950 runs conceded, 2784 legal balls, economy rate 8.51.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Do you know for what team is Mitchell Marsh is playing for ? "
+      },
+      {
+        "role": "assistant",
+        "content": "MR Marsh played for 6 IPL teams: Deccan Chargers, Delhi Capitals, Lucknow Super Giants, Pune Warriors, Rising Pune Supergiants, Sunrisers Hyderabad.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Do you know for what team is Mitchell Marsh is currently playing for ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MR Marsh played for 6 IPL teams: Deccan Chargers, Delhi Capitals, Lucknow Super Giants, Pune Warriors, Rising Pune Supergiants, Sunrisers Hyderabad.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Do you know for what team is Mitchell Marsh played at 2025 ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MR Marsh played for 6 IPL teams: Deccan Chargers, Delhi Capitals, Lucknow Super Giants, Pune Warriors, Rising Pune Supergiants, Sunrisers Hyderabad.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Predict who will win if the match is between Kolkata Knight Riders versus Punjab Kings"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the historical data, the Kolkata Knight Riders have a slightly higher overall win percentage (50.4%) compared to the Punjab Kings (45.3%). Additionally, the Knight Riders have a slight edge in their head-to-head matches against the Kings (21 wins to 13). However, it's essential to note that this is a historical-comparison heuristic and not a validated predictive model. The actual outcome of the match may vary.",
+        "agent": "ML agent"
+      },
+      {
+        "role": "user",
+        "content": "Previous Team names of Punjab Kings"
+      },
+      {
+        "role": "assistant",
+        "content": "Gujarat Titans has the highest win percentage in IPL: 61.0% (47 wins from 77 matches). Next highest: 2. Chennai Super Kings (55.6%); 3. Mumbai Indians (53.3%); 4. Kolkata Knight Riders (50.4%); 5. Rising Pune Supergiants (50.0%).",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "what is dls"
+      },
+      {
+        "role": "assistant",
+        "content": "DLS Method: The Duckworth-Lewis-Stern (DLS) method is used to calculate a revised target score for the team batting second in a match interrupted by weather, most commonly rain. It accounts for both overs lost and wickets already in hand at the point of interruption.",
+        "agent": "RAG agent"
+      },
+      {
+        "role": "user",
+        "content": "jfksfkjakjdfa"
+      },
+      {
+        "role": "assistant",
+        "content": "No relevant knowledge document found for this question. I can answer questions about IPL rules/format/terminology, or general team, venue, and leaderboard summaries.",
+        "agent": "RAG agent"
+      }
+    ]
+  },
+  "d9065b0a-cc68-48f6-8cf3-3c124c837e2f": {
+    "title": "Predict who will win if the match is bet",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Predict who will win if the match is between Kolkata Knight Riders versus Punjab Kings"
+      },
+      {
+        "role": "assistant",
+        "content": "Something went wrong answering that prediction question (llama-server reported out-of-memory during startup: cudaMalloc failed: out of memory\nalloc_tensor_range: failed to allocate CUDA0 buffer of size 1826998528\nerror loading model: unable to allocate CUDA0 buffer (status code: 500)).",
+        "agent": "ML agent"
+      }
+    ]
+  },
+  "fc1e27b2-0b10-4035-b3bd-a4fbd59091f0": {
+    "title": "Give me the bowling stats for boult?",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Give me the bowling stats for boult?"
+      },
+      {
+        "role": "assistant",
+        "content": "TA Boult bowling stats: 145 wickets, 3950 runs conceded, 2784 legal balls, economy rate 8.51.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "Dhoni played for how many teams in IPL history ?"
+      },
+      {
+        "role": "assistant",
+        "content": "MS Dhoni played for 2 IPL teams: Chennai Super Kings, Rising Pune Supergiants.",
+        "agent": "Data agent"
+      }
+    ]
+  }
+}
