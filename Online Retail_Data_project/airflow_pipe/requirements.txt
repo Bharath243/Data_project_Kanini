@@ -1,0 +1,10 @@
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-microsoft-azure
+apache-airflow-providers-microsoft-mssql[odbc]
+apache-airflow-providers-mysql
+apache-airflow-providers-odbc
+pyodbc
+pymssql
+pyarrow
+pandas
+numpy
