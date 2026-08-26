@@ -130,5 +130,37 @@
         "agent": "Data agent"
       }
     ]
+  },
+  "5e63cbfd-50f7-4539-93d8-e14a05ca53ca": {
+    "title": "how much teams did the ms dhoni play",
+    "messages": [
+      {
+        "role": "user",
+        "content": "how much teams did the ms dhoni play"
+      },
+      {
+        "role": "assistant",
+        "content": "MS Dhoni played for 2 IPL teams: Chennai Super Kings, Rising Pune Supergiants.",
+        "agent": "Data agent"
+      },
+      {
+        "role": "user",
+        "content": "what is dls"
+      },
+      {
+        "role": "assistant",
+        "content": "DLS Method: The Duckworth-Lewis-Stern (DLS) method is used to calculate a revised target score for the team batting second in a match interrupted by weather, most commonly rain. It accounts for both overs lost and wickets already in hand at the point of interruption.",
+        "agent": "RAG agent"
+      },
+      {
+        "role": "user",
+        "content": "Predict who will win if the match is between Kolkata Knight Riders versus Punjab Kings"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the historical data, the Kolkata Knight Riders have a slightly higher overall win percentage (50.4%) compared to the Punjab Kings (45.3%). Additionally, the Knight Riders have a slight edge in their head-to-head matches against the Kings (21 wins to 13). However, it's essential to note that this is a historical-comparison heuristic and not a validated predictive model. The actual outcome of the match may vary.",
+        "agent": "ML agent"
+      }
+    ]
   }
 }
